@@ -2,6 +2,7 @@
 
 ## News
 
+- 最新更新 2019/5/22
 - 由于时间和精力所限，此repo已不再维护。关于2018年之后的保研夏令营、保研推免的通知，可关注[保研论坛](http://www.eeban.com/)；对于各高校的CS科研排名，可查阅[CSRankings: Computer Science Rankings](http://csrankings.org/#/fromyear/2007/toyear/2018/index?all)，此排行榜较为权威。
 - 当然，也欢迎志愿者`fork`与`contribute`。
 
@@ -20,6 +21,26 @@
 - [武汉大学国际软件学院-师资队伍](http://iss.whu.edu.cn/pages/home/teacher.html).
 
 - [武汉大学计算机-教师查询](http://cs.whu.edu.cn/plus/list.php?tid=42).
+
+## 2019
+|     学校     |                         学院/实验室                          | 报名截止时间 | 活动时间|
+| :----------: | :----------------------------------------------------------: | :----------: | :------------: |
+|   南京大学   | [Lamda 实验室](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm) |   5月20日    |      6月8日       |
+|  | [计算机科学与技术系<br />人工智能学院](http://cs.nju.edu.cn/16/2a/c1654a333354/page.htm) | 6月10日 | 7月11日-14日 |
+| | [软件学院](http://software.nju.edu.cn/index.php/important-notice/521-2019) | 6月15日 | 7月17日-20日 |
+| 中国科学院 | [软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201904/t20190424_5281117.html) | 6月16日 | 7月8日-12日 |
+|  | [沈阳计算机技术研究所](http://www.eeban.com/forum.php?mod=viewthread&tid=36581&extra=page%3D1&_dsign=c8518f9e) | 6月30日 | 7月16日-20日 |
+| 北京航空航天大学 | [计算机学院](http://scse.buaa.edu.cn/info/1099/6081.htm) | 6月25日 | 7月5日-7日 |
+|  | [软件学院-招生宣传会](http://soft.buaa.edu.cn/info/1085/9640.htm) |  |  |
+|  | [网络空间安全学院](http://www.eeban.com/thread-167693-1-1.html) | 6月22日 | 7月8日-7月10日 |
+| 中山大学 | [数据科学与计算机学院](http://sdcs.sysu.edu.cn/content/4821) | 6月10日 | 7月14日-20日 |
+| 复旦大学 | [计算机学院<br />软件学院](http://lsfb.fudan.edu.cn/a0/f6/c13972a172278/page.htm) | 6月15日 | 7月10日-12日 |
+| 上海交通大学 | [ 电子信息与电气工程学院](http://www.seiee.sjtu.edu.cn/yjb/info/15056.htm) | 6月1日（直博）<br />6月20日（直硕） |  |
+|  | [软件学院](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=13182) | 6月20日 | 7月14日-18日 |
+| 中国科学技术大学 | [科学岛夏令营](https://xly.ustc.edu.cn/news.php?newsid=646) | 6月20日 | - |
+|  | [计算机科学暑期夏令营](https://xly.ustc.edu.cn/news.php?newsid=641) | 6月15日 | 7月15-19日 |
+|  | [信息科技夏令营](https://xly.ustc.edu.cn/news.php?newsid=677) | 6月15日 | 7月15-19日 |
+| 武汉大学 | 计算机学院 |  |  |
 
 ## 2018
 
