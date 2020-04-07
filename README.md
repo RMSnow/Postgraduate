@@ -17,9 +17,20 @@
 
   > CSRankings is a metrics-based ranking of top computer science institutions around the world.
 
-- [武汉大学国际软件学院-师资队伍](http://iss.whu.edu.cn/pages/home/teacher.html).
+- [武汉大学国家网络安全学院-教师名录](http://cse.whu.edu.cn/index.php?s=/home/szdw/azchf.html)
 
-- [武汉大学计算机-教师查询](http://cs.whu.edu.cn/plus/list.php?tid=42).
+- [武汉大学计算机-教师查询](http://cs.whu.edu.cn/teachersearch.aspx).
+
+## 2020
+
+|       学校       |                         学院/实验室                          | 报名截止时间 | 活动时间 |
+| :--------------: | :----------------------------------------------------------: | :----------: | :------: |
+|     清华大学     | [智能与网络化系统研究中心](http://cfins.au.tsinghua.edu.cn/cn/news/index.php#news20200327) |              |   4月    |
+| 中国科学技术大学 | [MIRA Lab](http://staff.ustc.edu.cn/~jwangx/admission/MIRA_Admission_2021.html) |              |          |
+
+
+
+
 
 ## 2018
 
